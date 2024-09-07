@@ -1,0 +1,20 @@
+{
+  "name": "127_ki_student_managmentsystem",
+  "version": "1.0.0",
+  "description": "This is cli based Application",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  },
+  "dependencies": {
+    "inquirer": "^10.2.1"
+  }
+}
